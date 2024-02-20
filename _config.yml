@@ -1,0 +1,52 @@
+# Site settings
+course_name: Engineering Probability and Statistics
+course_description: "This course is about probability and statistics in engineering"
+course_semester: "Spring 2023"
+
+baseurl: "/EPSspr2023"
+url: "http://bcolabcourses.github.io/" # the base hostname & protocol for your site
+
+schoolname: "University of Tehran"
+schoolurl: "https://ece.ut.ac.ir"
+twitter_username: username 
+
+address: |
+    School of Electrical and Computer Engineering
+    University of Tehran
+    Tehran, Iran
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

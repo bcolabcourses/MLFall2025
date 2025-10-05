@@ -3,9 +3,9 @@ instructors:
     profile_pic: /_images/pp/dehaqani.jpg
     webpage: https://ece.ut.ac.ir/~dehaqani
     
-  - name: Babak N. Arabi
-    profile_pic: /_images/pp/Dr_Arabi.jpg
-    webpage: https://ece.ut.ac.ir/~araabi
+  # - name: Babak N. Arabi
+  #   profile_pic: /_images/pp/Dr_Arabi.jpg
+  #   webpage: https://ece.ut.ac.ir/~araabi
 
 teaching_assistant:
   - name: Amirali S. Tehrani

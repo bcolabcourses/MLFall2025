@@ -7,6 +7,10 @@ instructor:
     profile_pic: /_images/pp/Dr_Arabi.jpg
     webpage: https://ece.ut.ac.ir/~araabi
 
+  -name: Mostafa Tavassolipour
+  profile_pic: /_images/pp/Dr_tavasoli.jpg
+  webpage: https://ece.ut.ac.ir/en/~tavassolipour
+
 teaching_assistant:
   - name: Amirali S. Tehrani
     profile_pic: /_images/pp/amiralisoltani.jpg

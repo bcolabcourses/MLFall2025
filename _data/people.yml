@@ -8,8 +8,8 @@ instructor:
     webpage: https://ece.ut.ac.ir/~araabi
 
   - name: Mostafa Tavassolipour
-  profile_pic: /_images/pp/DrTavassoli.jpg
-  webpage: https://ece.ut.ac.ir/en/~tavassolipour
+    profile_pic: /_images/pp/DrTavassoli.jpg
+    webpage: https://ece.ut.ac.ir/en/~tavassolipour
 
 teaching_assistant:
   - name: Amirali S. Tehrani

@@ -1,7 +1,10 @@
-instructor:
+instructors:
   - name: Mohammadreza A. Dehaqani
     profile_pic: /_images/pp/dehaqani.jpg
     webpage: https://ece.ut.ac.ir/~dehaqani
+  - name: Babak N. Arabi
+    profile_pic: /_images/pp/citations.jfif
+    webpage: https://ece.ut.ac.ir/~araabi/home
 
 teaching_assistant:
   - name: Amirali S. Tehrani

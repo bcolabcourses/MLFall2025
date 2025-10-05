@@ -7,15 +7,11 @@ instructor:
     profile_pic: /_images/pp/Dr_Arabi.jpg
     webpage: https://ece.ut.ac.ir/~araabi
 
-  - name: Mostafa Tavassolipour
-    profile_pic: /_images/pp/DrTavassoli.jpg
-    webpage: https://ece.ut.ac.ir/en/~tavassolipour
-
-teaching_assistant:
-  - name: Amirali S. Tehrani
-    profile_pic: /_images/pp/amiralisoltani.jpg
-    webpage: https://aasolteh.github.io
-    
+teaching_assistant:    
   - name: Reza Salamat
     profile_pic: /_images/pp/rezasalamat.jpg
     webpage: mailto:ar.salamat@yahoo.com
+
+  - name: Pouya HM. Gohari
+    profile_pic: /_images/pp/pouya_hmg.jpg
+    webpage: https://github.com/PouyaGohari

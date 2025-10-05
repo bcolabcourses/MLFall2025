@@ -1,13 +1,9 @@
 # Site settings
 course_name: Machine Learning
 course_description: "Machine Learning has recently become one of the most essential subjects in modern research and development, and it often serves as a foundational step in any roadmap toward Artificial Intelligence (AI).
-
 This course familiarizes students with key concepts and a variety of algorithms used for classification and clustering. Students will not only learn the theoretical principles behind these algorithms but also gain an intuitive understanding of how and why they work through practical examples and exercises.
 
-This undergraduate course provides a comprehensive introduction to core machine learning techniques, covering both fundamental theory and practical implementation. Topics include Bayesian inference and Maximum Likelihood Estimation (MLE), regression models, optimization techniques, decision trees, Support Vector Machines (SVMs), neural networks, dimensionality reduction methods such as PCA and LDA, feature selection, and clustering algorithms.
-
-Students will work through a series of homework assignments that reinforce the theoretical material and allow them to apply concepts using Python. By the end of the course, students will be able to design, implement, and evaluate basic machine learning models, preparing them for more advanced study or applied research in AI and data science.
-"
+This graduate-level course offers an in-depth exploration of machine learning methods, emphasizing both theoretical foundations and advanced algorithmic design. The course introduces the probabilistic foundations of machine learning through Bayesian inference, MLE, and MAP estimation, followed by key supervised methods such as regression, decision trees, SVMs, and Parzen windows. Students then explore ensemble learning, model selection, and dimensionality reduction techniques like PCA and LDA. The final part covers unsupervised learning, including clustering, mixture models, and the EM algorithm. Through lectures, assignments, and a final project, students gain practical experience in implementing and evaluating these methods using Python."
 course_semester: "Fall 2025"
 
 baseurl: "/MLFall2025"

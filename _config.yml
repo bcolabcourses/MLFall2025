@@ -1,29 +1,16 @@
 # Site settings
 course_name: Introduction to Statistical Inference
-course_description: "Statistical Inference is a fundamental and a very
-important subject in the field of mathematics and
-statistics , so essential that it significantly informs and
-enhances disciplines such as Machine Learning. The
-course provides students with the necessary tools and
-techniques for analyzing collected data and utilizing
-statistics in real and practical decision-making. This
-course enables students to to evaluate hypotheses
-and conduct hypothesis testing. It emphasizes
-generating valid estimates, understanding significance,
-effect sizes, and the power of tests to derive insightful
-conclusions from data, enhancing data-driven
-inference. Addditionally, it also touches upon concepts
-of experimental design and Bayesian Inference. The
-course is designed to reduce the stress of grades,
-paving the way for a deep exploration of statistical
-inference. It encourages students to delve into its
-diverse aspects with the passion and curiosity of a data
-scientist, applicable in in various components of social
-sciences, natural sciences, finance, engineeing and
-many many other fields."
-course_semester: "Spring 2025"
+course_description: "Machine Learning has recently become one of the most essential subjects in modern research and development, and it often serves as a foundational step in any roadmap toward Artificial Intelligence (AI).
 
-baseurl: "/ISIspr2024"
+This course familiarizes students with key concepts and a variety of algorithms used for classification and clustering. Students will not only learn the theoretical principles behind these algorithms but also gain an intuitive understanding of how and why they work through practical examples and exercises.
+
+This undergraduate course provides a comprehensive introduction to core machine learning techniques, covering both fundamental theory and practical implementation. Topics include Bayesian inference and Maximum Likelihood Estimation (MLE), regression models, optimization techniques, decision trees, Support Vector Machines (SVMs), neural networks, dimensionality reduction methods such as PCA and LDA, feature selection, and clustering algorithms.
+
+Students will work through a series of homework assignments that reinforce the theoretical material and allow them to apply concepts using Python. By the end of the course, students will be able to design, implement, and evaluate basic machine learning models, preparing them for more advanced study or applied research in AI and data science.
+"
+course_semester: "Fall 2025"
+
+baseurl: "/MLFall2025"
 url: "http://bcolabcourses.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Tehran"

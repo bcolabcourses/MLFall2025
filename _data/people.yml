@@ -1,11 +1,11 @@
 instructor:
-  - name: Mohammadreza A. Dehaqani
-    profile_pic: /_images/pp/dehaqani.jpg
-    webpage: https://ece.ut.ac.ir/~dehaqani
-    
   - name: Babak N. Arabi
     profile_pic: /_images/pp/Dr_Arabi.jpg
     webpage: https://ece.ut.ac.ir/~araabi
+    
+  - name: Mohammadreza A. Dehaqani
+    profile_pic: /_images/pp/dehaqani.jpg
+    webpage: https://ece.ut.ac.ir/~dehaqani
 
 teaching_assistant:    
   - name: Reza Salamat

@@ -10,7 +10,7 @@ tldr: "A focused review of optimization concepts and techniques essential for tr
 hide_from_announcements: false
 links: 
     - url: /static_files/prequisities/Optimization Slides.pdf
-      name: slide
+      name: slides
     - url: static_files/prequisities/Optimization Notes.pdf
       name: note
     - url: https://drive.google.com/drive/folders/1jOsuU219WUWyjOxd7gn2kX1jh0whKhwU?usp=sharing

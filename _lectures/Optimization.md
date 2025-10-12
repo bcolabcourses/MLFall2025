@@ -3,7 +3,7 @@ type: lecture
 date: 2025-10-12T10:00:00+04:30
 title: "Optimization Review"
 
-thumbnail: /static_files/images/optimization_review.jpg
+thumbnail: /static_files/images/optimization.png
 
 tldr: "A focused review of optimization concepts and techniques essential for training machine learning models."
 

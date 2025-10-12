@@ -10,7 +10,7 @@ tldr: "A concise review of the key linear algebra concepts essential for underst
 hide_from_announcements: false
 links: 
     - url: /static_files/prerequisites/LinAlgReview.pdf
-      name: slide
+      name: slides
     - url: https://drive.google.com/drive/folders/1jOsuU219WUWyjOxd7gn2kX1jh0whKhwU?usp=sharing
       name: video
 ---

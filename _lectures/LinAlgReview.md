@@ -7,7 +7,7 @@ thumbnail: /static_files/images/LinAlg.png
 
 tldr: "A concise review of the key linear algebra concepts essential for understanding machine learning algorithms."
 
-hide_from_announcements: false
+hide_from_announcements: True
 links: 
     - url: /static_files/prerequisites/LinAlgReview.pdf
       name: slides
